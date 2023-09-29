@@ -1,6 +1,6 @@
 function time(seconds) {
     // here is where you write your code...
-    return "0s";
+    return seconds + "s";
   }
   
   module.exports = time;
